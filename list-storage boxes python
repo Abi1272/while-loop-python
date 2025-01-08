@@ -1,0 +1,8 @@
+Mario = ["Kirby", "Luigi", "Bowser"]
+print(Mario)
+Mario.append("Toad")
+print(Mario)
+Mario.sort()
+print(Mario)
+Mario.remove("Kirby")
+print(Mario)
