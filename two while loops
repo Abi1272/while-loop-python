@@ -1,0 +1,10 @@
+#while loop to print the number 50-0 counting by 5s!
+num = 50 #starting point
+while num>-1: #go one less 0 so it prints
+    print(num, end = " ")
+    num -= 5 #what you count by
+    
+#while loop to print "$uicideboy$" until the user types "skibidi toilet"
+UserInput = "something" #dummy value
+while UserInput != "skibidi toilet":
+    UserInput = input("$uicideboy$")
